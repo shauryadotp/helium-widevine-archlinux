@@ -1,4 +1,4 @@
-# helium-widewine-archlinux
+# helium-widevine-archlinux
 
 This is a fork of [@proprietary/chromium-widevine](https://github.com/proprietary/chromium-widevine), now a fork maintained by [@kohnish/chromium-widevine](https://github.com/kohnish/chromium-widevine).
 
@@ -34,8 +34,8 @@ pikaur -S helium-browser-bin google-chrome
 To get started, clone the repository and run the `use-from-google-chrome.sh` script:
 
 ```bash
-git clone https://github.com/shauryadotp/helium-widewine-archlinux.git
-cd helium-widewine-archlinux
+git clone https://github.com/shauryadotp/helium-widevine-archlinux.git
+cd helium-widevine-archlinux
 ./use-from-google-chrome.sh
 ```
 
